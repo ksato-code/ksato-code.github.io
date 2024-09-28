@@ -10,5 +10,5 @@ Created a new folder on my PC and cloned the repository
   * Graphic design
   * UI&UX design
 ## Websites I Recommend
-  * [Canva](https://www.canva.com) - I can find professional design templates of posters and albums et cetera. It is also a good way to learn design.
-  * [The Odin Project](https://www.theodinproject.com/) - It is a good for learning web development. 
+  * [Canva](https://www.canva.com) - I can find templates for professional posters and album designs. It's also a good way to learn about design.
+  * [The Odin Project](https://www.theodinproject.com/) - It is a good opportunity for learning web development. 
