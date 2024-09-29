@@ -9,6 +9,7 @@ Created a new folder on my PC and cloned the repository
   * Web design
   * Graphic design
   * UI&UX design
+  * Cooking
 ## Websites I Recommend
   * [Canva](https://www.canva.com) - I can find templates for professional posters and album designs. It's also a good way to learn about design.
   * [The Odin Project](https://www.theodinproject.com/) - It is a good opportunity for learning web development. 
